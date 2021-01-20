@@ -1,2 +1,4 @@
 # Money-Heist
 A 3D game I developed using Unity and Unity Assets. A video demo is available in the repository (Money Heist .mp4).
+
+The game features a man who is looking for 14 gold coins, who can reduce or increase his size in order to jump over various obstacles or enter them. All items are downloaded from the Assets Store. Elements of originality: adding the possibility of changing the size of the character, the camera and the light follow the character, the animation of the coins, the placement of objects, the collection of coins and the score counting. When the character reaches the end of the room, a text appears on the screen that says whether or not he has collected all the coins (both variants can be seen in the video), then having the possibility to restart the game by pressing the R key.
